@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Voinova">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Manager/libs/Voinova" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Manager/libs/Voinova" recursive="false" />
+  </library>
+</component>

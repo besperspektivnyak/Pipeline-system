@@ -1,0 +1,44 @@
+янв. 25, 2021 2:30:25 PM Config ParseConfig
+INFO: Manager parsing is successful
+янв. 25, 2021 2:30:26 PM Config ConfigInit
+INFO: Semantic parse is successful
+янв. 25, 2021 2:30:26 PM Manager CreateExecutor
+INFO: Success!
+янв. 25, 2021 2:30:26 PM ConfigExecutor Parse
+INFO: Parse reader config was successful
+янв. 25, 2021 2:30:26 PM Executor SemanticParser
+INFO: Successful parse
+янв. 25, 2021 2:30:26 PM Manager InitExecutors
+INFO: Executors were initialized
+янв. 25, 2021 2:30:26 PM Manager CreateReader
+INFO: Reader was created
+янв. 25, 2021 2:30:26 PM ConfigReader Parse
+INFO: Parse reader config was successful
+янв. 25, 2021 2:30:26 PM Reader SemanticParser
+INFO: Successful parse
+янв. 25, 2021 2:30:26 PM Reader setInputStream
+INFO: Reader's input stream is set
+янв. 25, 2021 2:30:26 PM Manager CreateWriter
+INFO: Writer was created
+янв. 25, 2021 2:30:26 PM ConfigWriter Parse
+INFO: Parse reader config was successful
+янв. 25, 2021 2:30:26 PM Writer SemanticParser
+INFO: Parse successful
+янв. 25, 2021 2:30:26 PM Writer setOutputStream
+INFO: Writer's output stream is set
+янв. 25, 2021 2:30:26 PM Reader setConsumer
+INFO: Reader's consumer is set
+янв. 25, 2021 2:30:26 PM Executor setProducer
+INFO: Executor's producer is set
+янв. 25, 2021 2:30:26 PM Executor setConsumer
+INFO: Executor's consumer is set
+янв. 25, 2021 2:30:26 PM Writer setProducer
+INFO: Writer's producer is set
+янв. 25, 2021 2:30:26 PM Manager ManagerStart
+INFO: Manager initialized all executors
+янв. 25, 2021 2:30:26 PM Reader ReadFile
+INFO: Read successful
+янв. 25, 2021 2:30:26 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+янв. 25, 2021 2:30:26 PM Writer WriteFile
+INFO: Successfully write in file

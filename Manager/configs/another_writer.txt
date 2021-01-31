@@ -1,0 +1,8 @@
+INPUT=Manager/data/input.txt
+INPUT_CFG=Manager/configs/my_configs/input_cfg.txt
+READER_NAME=Reader
+OUTPUT=Manager/data/output.txt
+OUTPUT_CFG=Manager/libs/Shagvaliev/configs_workers_my/writerConfig.txt
+WRITER_NAME=mekhails.writer.ByteWriter
+EXECUTOR_CFG=Manager/configs/my_configs/executor_cfg.txt
+EXECUTOR_QUEUE=Executor

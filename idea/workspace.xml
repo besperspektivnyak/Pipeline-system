@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebb1443d-ed4f-4a36-ba70-d9246e637c6e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nOJCAIDzTCSKtEXsteE4Uojakb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Высшее Образование/Java/Pipeline-System-main 3lab" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Елизавета\IdeaProjects\Pipeline\Manager\data" />
+      <recent name="C:\Users\Елизавета\IdeaProjects\Pipeline\Manager\configs\my_configs" />
+      <recent name="C:\Users\Елизавета\IdeaProjects\Pipeline\Manager\configs" />
+      <recent name="C:\Users\Елизавета\IdeaProjects\Pipeline\Manager" />
+      <recent name="C:\Users\Елизавета\IdeaProjects\Pipeline\Executor\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.pipeline">
+    <configuration name="Another Executors" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Manager" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Елизавета\IdeaProjects\Pipeline\Manager\configs\another_executors.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Another Reader" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Manager" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Елизавета\IdeaProjects\Pipeline\Manager\configs\another_reader.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Another Writer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Manager" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Елизавета\IdeaProjects\Pipeline\Manager\configs\another_reader.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pipeline" type="Application" factoryName="Application">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Manager" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Елизавета\IdeaProjects\Pipeline\Manager\configs\my_config.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="interfaces.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/interfaces.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Елизавета\IdeaProjects\Pipeline" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Another Executors" />
+      <item itemvalue="Application.Another Reader" />
+      <item itemvalue="Application.Another Writer" />
+      <item itemvalue="Application.pipeline" />
+      <item itemvalue="JAR Application.interfaces.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.interfaces.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebb1443d-ed4f-4a36-ba70-d9246e637c6e" name="Default Changelist" comment="" />
+      <created>1611255076650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611255076650</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1611417093673">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1611417093673" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611573894518">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1611573894518" />
+    <state x="412" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611522769195">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1611522769195" />
+    <state x="428" y="45" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1611258573374">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="428" y="45" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1611258573374" />
+    <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1611419277618">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1611419277618" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1611573861238">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1611573861238" />
+    <state x="363" y="30" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1611521701342">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="363" y="30" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1611521701342" />
+    <state x="471" y="34" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1611570685340">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="34" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1280.680@0.0.1280.680" timestamp="1611570685340" />
+    <state x="424" y="206" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1611418489793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="424" y="206" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1611418489793" />
+    <state x="371" y="95" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1611571615962">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="95" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.680@0.0.1280.680" timestamp="1611571615962" />
+    <state x="438" y="236" key="DetectedRootsChooserDialog" timestamp="1611486219222">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="236" key="DetectedRootsChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1611486219222" />
+    <state x="348" y="82" key="FileChooserDialogImpl" timestamp="1611828412262">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611828412262" />
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1611652833668">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611652833668" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1611652833667">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611652833667" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1611652833666">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611652833666" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1611652833668">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611652833668" />
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom" timestamp="1611652833670">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611652833670" />
+    <state width="1237" height="189" key="GridCell.Tab.1.center" timestamp="1611652833670">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1611652833670" />
+    <state width="1237" height="189" key="GridCell.Tab.1.left" timestamp="1611652833669">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1611652833669" />
+    <state width="1237" height="189" key="GridCell.Tab.1.right" timestamp="1611652833670">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1611652833670" />
+    <state x="316" y="45" key="NewModule_or_Project.wizard" timestamp="1611828330572">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="316" y="45" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1611828330572" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1611571617286">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1611571617286" />
+    <state x="445" y="209" key="classpath-attribute-editor" timestamp="1611486243302">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="445" y="209" key="classpath-attribute-editor/0.0.1280.680@0.0.1280.680" timestamp="1611486243302" />
+    <state x="189" y="52" width="902" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1611431240957">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="189" y="52" width="902" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1611431240957" />
+    <state x="280" y="0" key="new project wizard" timestamp="1611417108734">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="280" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1611417108734" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pipeline$.ic" NAME=" Coverage Results" MODIFIED="1611257345205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
