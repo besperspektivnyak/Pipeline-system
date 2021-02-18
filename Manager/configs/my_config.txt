@@ -4,5 +4,5 @@ READER_NAME=Reader
 OUTPUT=Manager/data/output.txt
 OUTPUT_CFG=Manager/configs/my_configs/output_cfg.txt
 WRITER_NAME=Writer
-EXECUTOR_CFG=Manager/configs/my_configs/executor_cfg.txt
-EXECUTOR_QUEUE=Executor
+EXECUTOR_CFG=Manager/configs/my_configs/executor_cfg.txt Manager/configs/my_configs/executor_cfg.txt
+EXECUTOR_QUEUE=Executor Executor

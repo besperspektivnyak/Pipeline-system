@@ -4,5 +4,5 @@ READER_NAME=Reader
 OUTPUT=Manager/data/output.txt
 OUTPUT_CFG=Manager/configs/my_configs/output_cfg.txt
 WRITER_NAME=Writer
-EXECUTOR_CFG=Manager/configs/my_configs/executor_cfg.txt Manager/libs/Voinova/configs/executor_decoder.txt Manager/libs/Voinova/configs/executor_encoder.txt
-EXECUTOR_QUEUE=Executor BinaryShift BinaryShift
+EXECUTOR_CFG=Manager/configs/my_configs/executor_cfg.txt Manager/libs/Voinova/configs/executor_decoder.txt Manager/libs/Voinova/configs/executor_encoder.txt Manager/libs/Timofeev/configs/executor_config.txt
+EXECUTOR_QUEUE=Executor BinaryShift BinaryShift ru.spbstu.timofeev.workers.Substitutor
