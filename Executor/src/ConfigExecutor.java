@@ -11,7 +11,7 @@ public class ConfigExecutor {
 
     public ConfigExecutor(Logger logger) { LOGGER = logger; }
 
-    protected RC Parse(String config_name, String[] resParams) {
+    protected RC Parse(String config_name, String[] resParams, String[] valueNames) {
         try {
             BufferedReader inputStr = new BufferedReader(new FileReader(config_name));
             String tmp;
@@ -22,6 +22,7 @@ public class ConfigExecutor {
                 paramTmp = tmp.split(grammar.Delimeter());
                 if (paramTmp[0].equals(grammar.GrammarToken(0))) {
                     resParams[0] = paramTmp[1];
+                    valueNames[0] = paramTmp[0];
                     LOGGER.log(Level.INFO, "Parse reader config was successful");
                 }
                 else {
