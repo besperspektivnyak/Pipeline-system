@@ -1,44 +1,336 @@
-янв. 25, 2021 2:30:25 PM Config ParseConfig
+февр. 09, 2021 9:09:05 PM Config ParseConfig
 INFO: Manager parsing is successful
-янв. 25, 2021 2:30:26 PM Config ConfigInit
+февр. 09, 2021 9:09:05 PM Config ConfigInit
 INFO: Semantic parse is successful
-янв. 25, 2021 2:30:26 PM Manager CreateExecutor
+февр. 09, 2021 9:09:05 PM Manager CreateExecutor
 INFO: Success!
-янв. 25, 2021 2:30:26 PM ConfigExecutor Parse
+февр. 09, 2021 9:09:05 PM ConfigExecutor Parse
 INFO: Parse reader config was successful
-янв. 25, 2021 2:30:26 PM Executor SemanticParser
+февр. 09, 2021 9:09:05 PM Executor SemanticParser
 INFO: Successful parse
-янв. 25, 2021 2:30:26 PM Manager InitExecutors
+февр. 09, 2021 9:09:05 PM Manager CreateExecutor
+INFO: Success!
+февр. 09, 2021 9:09:05 PM ConfigExecutor Parse
+INFO: Parse reader config was successful
+февр. 09, 2021 9:09:05 PM Executor SemanticParser
+INFO: Successful parse
+февр. 09, 2021 9:09:05 PM Manager InitExecutors
 INFO: Executors were initialized
-янв. 25, 2021 2:30:26 PM Manager CreateReader
+февр. 09, 2021 9:09:05 PM Manager CreateReader
 INFO: Reader was created
-янв. 25, 2021 2:30:26 PM ConfigReader Parse
+февр. 09, 2021 9:09:05 PM ConfigReader Parse
 INFO: Parse reader config was successful
-янв. 25, 2021 2:30:26 PM Reader SemanticParser
+февр. 09, 2021 9:09:05 PM Reader SemanticParser
 INFO: Successful parse
-янв. 25, 2021 2:30:26 PM Reader setInputStream
+февр. 09, 2021 9:09:05 PM Reader setInputStream
 INFO: Reader's input stream is set
-янв. 25, 2021 2:30:26 PM Manager CreateWriter
+февр. 09, 2021 9:09:05 PM Manager CreateWriter
 INFO: Writer was created
-янв. 25, 2021 2:30:26 PM ConfigWriter Parse
-INFO: Parse reader config was successful
-янв. 25, 2021 2:30:26 PM Writer SemanticParser
+февр. 09, 2021 9:09:05 PM ConfigWriter Parse
+INFO: Parse writer config was successful
+февр. 09, 2021 9:09:05 PM Writer SemanticParser
 INFO: Parse successful
-янв. 25, 2021 2:30:26 PM Writer setOutputStream
+февр. 09, 2021 9:09:05 PM Writer setOutputStream
 INFO: Writer's output stream is set
-янв. 25, 2021 2:30:26 PM Reader setConsumer
+февр. 09, 2021 9:09:05 PM Reader setConsumer
 INFO: Reader's consumer is set
-янв. 25, 2021 2:30:26 PM Executor setProducer
+февр. 09, 2021 9:09:05 PM Executor typeIntersection
+INFO: Find type in executorBYTE
+февр. 09, 2021 9:09:05 PM Executor setProducer
 INFO: Executor's producer is set
-янв. 25, 2021 2:30:26 PM Executor setConsumer
+февр. 09, 2021 9:09:05 PM Executor setConsumer
 INFO: Executor's consumer is set
-янв. 25, 2021 2:30:26 PM Writer setProducer
+февр. 09, 2021 9:09:05 PM Executor typeIntersection
+INFO: Find type in executorBYTE
+февр. 09, 2021 9:09:05 PM Executor setProducer
+INFO: Executor's producer is set
+февр. 09, 2021 9:09:05 PM Executor setConsumer
+INFO: Executor's consumer is set
+февр. 09, 2021 9:09:05 PM Writer typeIntersection
+INFO: Find type in executorBYTE
+февр. 09, 2021 9:09:05 PM Writer setProducer
 INFO: Writer's producer is set
-янв. 25, 2021 2:30:26 PM Manager ManagerStart
+февр. 09, 2021 9:09:05 PM Manager ManagerStart
 INFO: Manager initialized all executors
-янв. 25, 2021 2:30:26 PM Reader ReadFile
+февр. 09, 2021 9:09:05 PM Reader ReadFile
 INFO: Read successful
-янв. 25, 2021 2:30:26 PM Executor BitInverting
+февр. 09, 2021 9:09:05 PM Executor BitInverting
 INFO: Bit Inverting executed successfully
-янв. 25, 2021 2:30:26 PM Writer WriteFile
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
 INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Reader ReadFile
+INFO: Read successful
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Executor BitInverting
+INFO: Bit Inverting executed successfully
+февр. 09, 2021 9:09:05 PM Writer WriteFile
+INFO: Successfully write in file
+февр. 09, 2021 9:09:05 PM Executor execute
+SEVERE: Invalid argument
